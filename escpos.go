@@ -7,8 +7,7 @@ import (
 	"net"
 	"os"
 	"time"
-
-	// "github.com/alexbrainman/printer"
+        //"github.com/alexbrainman/printer"
 	"github.com/tarm/serial"
 )
 
